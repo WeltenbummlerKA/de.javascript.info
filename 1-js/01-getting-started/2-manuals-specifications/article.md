@@ -5,15 +5,15 @@ Dieses Buch ist ein *Tutorial*. Es soll dir helfen, die Sprache nach und nach zu
 
 ## Spezifikation
 
-[The ECMA-262 specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) enthält die ausführlichsten, detailliertesten und formalisiertesten Informationen über JavaScript. Es definiert die Sprache.
+[Die ECMA-262 Specifikation](https://www.ecma-international.org/publications/standards/Ecma-262.htm) enthält die ausführlichsten, detailliertesten und formalisiertesten Informationen über JavaScript. Es definiert die Sprache.
 
-Die Tatsache dass es so festgschrieben ist, macht es am Anfgan etwas schwer verständlich. Wenn du also die vertrauenswürdigste Informationsquelle benötigst, dann ist die Spezifikation dir richtige Stelle. Sie ist jedoch nicht für den alltäglichen Gebrauch passend. 
+Die Tatsache dass es so festgschrieben ist, macht es am Anfang etwas schwer verständlich. Wenn du also die vertrauenswürdigste Informationsquelle benötigst, dann ist die Spezifikation die richtige Stelle. Sie ist jedoch nicht für den alltäglichen Gebrauch passend. 
 
-Eine neue Spezifikationsversion wird jedes Jahr veröffentlicht. In der Zwischenzeit kann der letzte entwurf unter <https://tc39.es/ecma262/> gefunden werden.
+Eine neue Spezifikationsversion wird jedes Jahr veröffentlicht. In der Zwischenzeit kann der letzte Entwurf unter <https://tc39.es/ecma262/> gefunden werden.
 
-Um mehr über die neuen bleeding-edge features, einschliesslich derjendigen, die "fast Standard" sind ("stage 3" genannt), siehe Vorschläge unter <https://github.com/tc39/proposals>.
+Um mehr über die neuen bleeding-edge features, einschliesslich derjenigen, die "fast Standard" sind ("stage 3" genannt), siehe Vorschläge unter <https://github.com/tc39/proposals>.
 
-Wenn du für den Browser entwickeln, dann gibt es noch weitere Spezifikationen, die im [zweiten Teil](info:browser-environment) des Tutorials behandelt werden.
+Wenn du für den Browser entwickelst, dann gibt es noch weitere Spezifikationen, die im [zweiten Teil](info:browser-environment) des Tutorials behandelt werden.
 
 ## Handbücher
 
