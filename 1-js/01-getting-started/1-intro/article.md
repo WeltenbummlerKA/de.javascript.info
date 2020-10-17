@@ -80,7 +80,7 @@ Obwohl es möglich ist, erfordert es eine ausdrückliche Zustimmung (ausgedrück
 
 Solche Einschränkungen bestehen nicht, wenn JavaScript außerhalb des Browsers, z.B. auf einem Server, verwendet wird. Moderne Browser erlauben auch Plugins/Erweiterungen, die unter Umständen nach erweiterten Rechten fragen.
 
-## What makes JavaScript unique?
+## Was macht JavaScript einzigartig?
 
 Es gibt mindestens *drei* großartige Dinge über JavaScript:
 
